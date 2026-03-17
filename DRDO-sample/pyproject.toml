@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "spatio-temporal-anomaly-detection"
+version = "0.1.0"
+description = "AI-based system for spatio-temporal anomaly detection in satellite imagery"
+authors = [{name = "DRDO Team"}]
+dependencies = [
+    "torch>=2.0.0",
+    "torchvision>=0.15.0",
+    "ultralytics>=8.0.0",
+    "openai-clip",
+    "chromadb",
+    "scikit-learn",
+    "opencv-python",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "tqdm",
+    "rasterio",
+    "streamlit",
+    "plotly"
+]
+requires-python = ">=3.8"
+
+[tool.setuptools]
+packages = ["src"]

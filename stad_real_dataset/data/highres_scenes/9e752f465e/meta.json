@@ -1,0 +1,46 @@
+{
+  "region": "Port of Long Beach (Container Terminal)",
+  "center_lat": 33.75,
+  "center_lon": -118.2175,
+  "optical_scenes": [
+    {
+      "date": "2012-05-05",
+      "file": "data\\highres_scenes\\9e752f465e\\temporal\\naip_2012-05-05_ca_m_3311823_nw_11_1.png",
+      "image_ok": true,
+      "sensor": "NAIP 0.6m"
+    },
+    {
+      "date": "2014-05-13",
+      "file": "data\\highres_scenes\\9e752f465e\\temporal\\naip_2014-05-13_ca_m_3311823_nw_11_1.png",
+      "image_ok": true,
+      "sensor": "NAIP 0.6m"
+    },
+    {
+      "date": "2016-07-06",
+      "file": "data\\highres_scenes\\9e752f465e\\temporal\\naip_2016-07-06_ca_m_3311823_nw_11_..png",
+      "image_ok": true,
+      "sensor": "NAIP 0.6m"
+    },
+    {
+      "date": "2018-07-23",
+      "file": "data\\highres_scenes\\9e752f465e\\temporal\\naip_2018-07-23_ca_m_3311823_nw_11_0.png",
+      "image_ok": true,
+      "sensor": "NAIP 0.6m"
+    },
+    {
+      "date": "2020-05-05",
+      "file": "data\\highres_scenes\\9e752f465e\\temporal\\naip_2020-05-05_ca_m_3311823_nw_11_0.png",
+      "image_ok": true,
+      "sensor": "NAIP 0.6m"
+    },
+    {
+      "date": "2022-05-11",
+      "file": "data\\highres_scenes\\9e752f465e\\temporal\\naip_2022-05-11_ca_m_3311823_nw_11_0.png",
+      "image_ok": true,
+      "sensor": "NAIP 0.6m"
+    }
+  ],
+  "sar_scenes": [],
+  "source": "NAIP (Planetary Computer)",
+  "resolution": "0.6m native"
+}

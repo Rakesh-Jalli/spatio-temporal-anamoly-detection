@@ -1,0 +1,46 @@
+{
+  "region": "San Diego International Airport (SAN)",
+  "center_lat": 32.734,
+  "center_lon": -117.1925,
+  "optical_scenes": [
+    {
+      "date": "2012-05-19",
+      "file": "data\\highres_scenes\\678822c6ae\\temporal\\naip_2012-05-19_ca_m_3211723_nw_11_1.png",
+      "image_ok": true,
+      "sensor": "NAIP 0.6m"
+    },
+    {
+      "date": "2014-06-03",
+      "file": "data\\highres_scenes\\678822c6ae\\temporal\\naip_2014-06-03_ca_m_3211723_nw_11_1.png",
+      "image_ok": true,
+      "sensor": "NAIP 0.6m"
+    },
+    {
+      "date": "2016-06-29",
+      "file": "data\\highres_scenes\\678822c6ae\\temporal\\naip_2016-06-29_ca_m_3211723_nw_11_..png",
+      "image_ok": true,
+      "sensor": "NAIP 0.6m"
+    },
+    {
+      "date": "2019-03-17",
+      "file": "data\\highres_scenes\\678822c6ae\\temporal\\naip_2019-03-17_ca_m_3211723_nw_11_0.png",
+      "image_ok": true,
+      "sensor": "NAIP 0.6m"
+    },
+    {
+      "date": "2020-05-20",
+      "file": "data\\highres_scenes\\678822c6ae\\temporal\\naip_2020-05-20_ca_m_3211723_nw_11_0.png",
+      "image_ok": true,
+      "sensor": "NAIP 0.6m"
+    },
+    {
+      "date": "2022-04-25",
+      "file": "data\\highres_scenes\\678822c6ae\\temporal\\naip_2022-04-25_ca_m_3211723_nw_11_0.png",
+      "image_ok": true,
+      "sensor": "NAIP 0.6m"
+    }
+  ],
+  "sar_scenes": [],
+  "source": "NAIP (Planetary Computer)",
+  "resolution": "0.6m native"
+}
